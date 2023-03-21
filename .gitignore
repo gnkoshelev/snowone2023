@@ -1,0 +1,10 @@
+# mvn target directory
+target
+
+# IDE specific resources
+*.iml
+.idea
+
+# OS specific files
+.DS_store
+
